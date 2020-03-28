@@ -1,0 +1,14 @@
+numpy
+scipy
+sympy
+matplotlib
+pandas
+xlrd
+openpyxl
+statsmodels
+beautifulsoup4
+lxml
+nltk
+spacy
+pynlpir
+ckiptagger
